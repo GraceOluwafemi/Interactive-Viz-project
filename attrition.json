@@ -1,0 +1,1447 @@
+[
+ {
+   "AgeCat": "15-18",
+   "MonthlyIncome": 1420,
+   "TotalWorkingYears": 0
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 1232,
+   "TotalWorkingYears": 0
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 1706,
+   "TotalWorkingYears": 0
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2269,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 1281,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2404,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2074,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2690,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 1702,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 2274,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 2723,
+   "TotalWorkingYears": 1
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2014,
+   "TotalWorkingYears": 2
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2376,
+   "TotalWorkingYears": 2
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 3388,
+   "TotalWorkingYears": 2
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2288,
+   "TotalWorkingYears": 2
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 2372,
+   "TotalWorkingYears": 2
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 3230,
+   "TotalWorkingYears": 3
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 2174,
+   "TotalWorkingYears": 3
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 2610,
+   "TotalWorkingYears": 3
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 3447,
+   "TotalWorkingYears": 3
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4680,
+   "TotalWorkingYears": 4
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2610,
+   "TotalWorkingYears": 4
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2440,
+   "TotalWorkingYears": 4
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 3140,
+   "TotalWorkingYears": 4
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 2696,
+   "TotalWorkingYears": 4
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2632,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2911,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2794,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2332,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 3452,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2313,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 3600,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4373,
+   "TotalWorkingYears": 5
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 6029,
+   "TotalWorkingYears": 6
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4404,
+   "TotalWorkingYears": 6
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2426,
+   "TotalWorkingYears": 6
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2859,
+   "TotalWorkingYears": 6
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4230,
+   "TotalWorkingYears": 6
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 3212,
+   "TotalWorkingYears": 6
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 5380,
+   "TotalWorkingYears": 6
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 2096,
+   "TotalWorkingYears": 7
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 3691,
+   "TotalWorkingYears": 7
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 3669,
+   "TotalWorkingYears": 7
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 3229,
+   "TotalWorkingYears": 7
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 5206,
+   "TotalWorkingYears": 7
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 3977,
+   "TotalWorkingYears": 7
+ },
+ {
+   "AgeCat": "18-28",
+   "MonthlyIncome": 3102,
+   "TotalWorkingYears": 7
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 2515,
+   "TotalWorkingYears": 8
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 3968,
+   "TotalWorkingYears": 8
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 2258,
+   "TotalWorkingYears": 8
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 4522,
+   "TotalWorkingYears": 8
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 4876,
+   "TotalWorkingYears": 8
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 2559,
+   "TotalWorkingYears": 8
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 6261,
+   "TotalWorkingYears": 9
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 8740,
+   "TotalWorkingYears": 9
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2468,
+   "TotalWorkingYears": 9
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 7880,
+   "TotalWorkingYears": 9
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 6782,
+   "TotalWorkingYears": 9
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 16184,
+   "TotalWorkingYears": 10
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 3348,
+   "TotalWorkingYears": 10
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2686,
+   "TotalWorkingYears": 10
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 17444,
+   "TotalWorkingYears": 10
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 7898,
+   "TotalWorkingYears": 11
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 5441,
+   "TotalWorkingYears": 11
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 4941,
+   "TotalWorkingYears": 11
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 7005,
+   "TotalWorkingYears": 11
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4011,
+   "TotalWorkingYears": 12
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 6347,
+   "TotalWorkingYears": 12
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 9419,
+   "TotalWorkingYears": 12
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 3072,
+   "TotalWorkingYears": 12
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 8474,
+   "TotalWorkingYears": 12
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2564,
+   "TotalWorkingYears": 12
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10845,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10368,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 8926,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 2259,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 5482,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 2306,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10686,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 6306,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 4900,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 5171,
+   "TotalWorkingYears": 13
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 10400,
+   "TotalWorkingYears": 14
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 6162,
+   "TotalWorkingYears": 14
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 10422,
+   "TotalWorkingYears": 14
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 11691,
+   "TotalWorkingYears": 14
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4508,
+   "TotalWorkingYears": 14
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 6388,
+   "TotalWorkingYears": 14
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4809,
+   "TotalWorkingYears": 16
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 9725,
+   "TotalWorkingYears": 16
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 17007,
+   "TotalWorkingYears": 16
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4599,
+   "TotalWorkingYears": 16
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 5747,
+   "TotalWorkingYears": 16
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 4312,
+   "TotalWorkingYears": 16
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 5093,
+   "TotalWorkingYears": 16
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 13245,
+   "TotalWorkingYears": 17
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 9396,
+   "TotalWorkingYears": 17
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 3420,
+   "TotalWorkingYears": 17
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 2587,
+   "TotalWorkingYears": 17
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 5390,
+   "TotalWorkingYears": 17
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 6385,
+   "TotalWorkingYears": 17
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 6201,
+   "TotalWorkingYears": 18
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2743,
+   "TotalWorkingYears": 18
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 7779,
+   "TotalWorkingYears": 18
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 5410,
+   "TotalWorkingYears": 18
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 5131,
+   "TotalWorkingYears": 18
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 3034,
+   "TotalWorkingYears": 18
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13269,
+   "TotalWorkingYears": 19
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 2450,
+   "TotalWorkingYears": 19
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 3780,
+   "TotalWorkingYears": 19
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 2662,
+   "TotalWorkingYears": 19
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 4257,
+   "TotalWorkingYears": 19
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 10883,
+   "TotalWorkingYears": 19
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 8823,
+   "TotalWorkingYears": 20
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 5405,
+   "TotalWorkingYears": 20
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2133,
+   "TotalWorkingYears": 20
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 2858,
+   "TotalWorkingYears": 20
+ },
+ {
+   "AgeCat": "28-38",
+   "MonthlyIncome": 13206,
+   "TotalWorkingYears": 20
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17068,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19272,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19197,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 12742,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10880,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 12169,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17123,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 13341,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17584,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14756,
+   "TotalWorkingYears": 21
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 13503,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18061,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18947,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 18665,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13120,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13973,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14852,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10739,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 10266,
+   "TotalWorkingYears": 22
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19545,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19141,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10447,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 13525,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17665,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10231,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 13320,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19049,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 8865,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19627,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17465,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 16606,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 5381,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 15202,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 18711,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 15379,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 7484,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19537,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17328,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10976,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19187,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 15787,
+   "TotalWorkingYears": 23
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18430,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10124,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19613,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18880,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10248,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10482,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 16328,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 5210,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10851,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10453,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19328,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17174,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13247,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19406,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10239,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19859,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13695,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10552,
+   "TotalWorkingYears": 24
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 16959,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 14336,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19740,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 9724,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19202,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10748,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19081,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 13225,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 12936,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 8633,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18265,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13964,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16880,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 10512,
+   "TotalWorkingYears": 25
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19513,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18213,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19190,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17650,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18824,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17861,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 18789,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 16752,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17169,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10965,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17099,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19094,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 18606,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16032,
+   "TotalWorkingYears": 26
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17567,
+   "TotalWorkingYears": 27
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19658,
+   "TotalWorkingYears": 27
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10999,
+   "TotalWorkingYears": 27
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 16885,
+   "TotalWorkingYears": 27
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16413,
+   "TotalWorkingYears": 27
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19331,
+   "TotalWorkingYears": 27
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 12965,
+   "TotalWorkingYears": 27
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 16872,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10527,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 17048,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10096,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 13770,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 10333,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19161,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 18172,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19144,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17046,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 7969,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 11836,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19943,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 7637,
+   "TotalWorkingYears": 28
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 15972,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "38-48",
+   "MonthlyIncome": 19665,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 7403,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10466,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 18740,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19237,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16307,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13142,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17328,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17875,
+   "TotalWorkingYears": 29
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13966,
+   "TotalWorkingYears": 30
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17639,
+   "TotalWorkingYears": 30
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 7525,
+   "TotalWorkingYears": 30
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16659,
+   "TotalWorkingYears": 30
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 11103,
+   "TotalWorkingYears": 30
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 18844,
+   "TotalWorkingYears": 30
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 13726,
+   "TotalWorkingYears": 30
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19502,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17924,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19847,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16555,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13826,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 15427,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16756,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14732,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10008,
+   "TotalWorkingYears": 31
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19517,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 18200,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17399,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17856,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14411,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 11245,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14814,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14118,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19701,
+   "TotalWorkingYears": 32
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14026,
+   "TotalWorkingYears": 33
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19068,
+   "TotalWorkingYears": 33
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19845,
+   "TotalWorkingYears": 33
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 14275,
+   "TotalWorkingYears": 33
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10502,
+   "TotalWorkingYears": 33
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13402,
+   "TotalWorkingYears": 33
+ },
+ {
+   "AgeCat": "58-68",
+   "MonthlyIncome": 19566,
+   "TotalWorkingYears": 33
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19999,
+   "TotalWorkingYears": 34
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16856,
+   "TotalWorkingYears": 34
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10169,
+   "TotalWorkingYears": 34
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13577,
+   "TotalWorkingYears": 34
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19038,
+   "TotalWorkingYears": 34
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10934,
+   "TotalWorkingYears": 35
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16598,
+   "TotalWorkingYears": 35
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19636,
+   "TotalWorkingYears": 35
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17779,
+   "TotalWorkingYears": 36
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 17426,
+   "TotalWorkingYears": 36
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 18722,
+   "TotalWorkingYears": 36
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19586,
+   "TotalWorkingYears": 36
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13212,
+   "TotalWorkingYears": 36
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19717,
+   "TotalWorkingYears": 36
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19045,
+   "TotalWorkingYears": 37
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16835,
+   "TotalWorkingYears": 37
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 7260,
+   "TotalWorkingYears": 37
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 16291,
+   "TotalWorkingYears": 37
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 13872,
+   "TotalWorkingYears": 38
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 10312,
+   "TotalWorkingYears": 40
+ },
+ {
+   "AgeCat": "48-58",
+   "MonthlyIncome": 19246,
+   "TotalWorkingYears": 40
+ }
+]
